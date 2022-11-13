@@ -1,0 +1,67 @@
+* {
+    color: white;
+    font-weight: bold;
+}
+
+#title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+#background {
+    background-color: teal
+}
+
+#break-label {
+    font-size: 20px;
+    margin: 10px
+}
+
+#session-label {
+    font-size: 20px;
+    margin: 10px
+}
+ button {
+    min-width: 30px;
+ }
+
+ #break-length {
+    margin: 10px;
+    font-size: 20px;
+ }
+
+ #session-length {
+    margin: 10px;
+    font-size: 20px;
+ }
+
+#session-border {
+    border: solid 4px white;
+    border-radius: 12%;
+    margin-top: 10px
+}
+
+ #timer-label {
+    font-size: 28px;
+    margin: 10px;
+    font-weight: 800;
+ }
+
+ #time-left {
+    font-size: 38px;
+    margin: 10px
+ }
+
+ #timer-controls {
+    margin-top: 18px;
+ }
+
+ #start_stop {
+    font-size: 18px;
+    margin-right: 10px;
+ }
+
+ #reset {
+    font-size: 18px;
+    margin-left: 10px;
+ }
