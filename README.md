@@ -1,6 +1,6 @@
 # Front End Development Libraries - Build a 25 + 5 Clock
 
-Solution Link (live link): https://arig501.github.io/25-plus-5-Clock/
+Solution Link (live link): https://ari-501.github.io/25-plus-5-Clock/
 
 Objective: Build an app that is functionally similar to this: https://25--5-clock.freecodecamp.rocks.
 
